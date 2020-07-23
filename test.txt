@@ -1,3 +1,7 @@
 trying to update the text file
 updated on the server side
+<<<<<<< HEAD
 hello 
+=======
+hi
+>>>>>>> 3936fa7e87e97220e948f016966195668aa9d46a
